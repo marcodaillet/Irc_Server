@@ -54,7 +54,7 @@ void Channel::setMode(char c, bool b)
 bool Channel::getMode(char c)
 {
 	if (this->_modes.count(c))
-        return (this->_modes[c]);
+        	return (this->_modes[c]);
 	return (false);
 }
 std::string Channel::getModesStr()
