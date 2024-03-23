@@ -43,5 +43,3 @@ Empowers operators with commands like KICK, INVITE, TOPIC, and MODE for dynamic 
 Compile the IRC server using C++ 98.
 Run the server executable with specified port and password parameters.
 Connect using the Irssi client to explore and interact with the IRC commands and features.
-
-https://user-images.githubusercontent.com/55747965/147461226-e5ba03a4-5db8-4213-a5b5-47332ca9cf83.mp4
